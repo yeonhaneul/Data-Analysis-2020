@@ -9,6 +9,7 @@ oepnweatherkey.txt
 */.ipynb_checkpoints/*
 samples/
 googlemapskey.txt
+chromedriver.exe
 
 # IPython
 profile_default/
