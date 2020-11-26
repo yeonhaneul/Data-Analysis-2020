@@ -10,6 +10,7 @@ oepnweatherkey.txt
 samples/
 googlemapskey.txt
 chromedriver.exe
+data/
 
 # IPython
 profile_default/
