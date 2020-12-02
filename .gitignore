@@ -11,6 +11,7 @@ samples/
 googlemapskey.txt
 chromedriver.exe
 data/
+coffee/
 
 # IPython
 profile_default/
