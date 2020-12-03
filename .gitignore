@@ -12,6 +12,7 @@ googlemapskey.txt
 chromedriver.exe
 data/
 coffee/
+covid.txt
 
 # IPython
 profile_default/
